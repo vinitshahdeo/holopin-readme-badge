@@ -2,11 +2,11 @@
   <img src='./public/images/holopin-icon.png'/>
   <h1>Holopin <code>README</code> Badge
   </h1>
-  <p><strong>Get yourself a dynamic Holopin markdown badge to show your collection of badges!</strong></p>
+  <p><strong>Get yourself a dynamic Holopin markdown badge to show your collection of badges ツ</strong></p>
   <img src='https://holopin.onrender.com/vinitshahdeo'/><br/><br/>
 </div>
 
-Holopin is a platform that allows you to create and collect digital badges that people love ━ **this is for you if you love collecting badges**. Here's my collection: [holopin.io/@vinitshahdeo](https://www.holopin.io/@vinitshahdeo). Read "[Introducing Holopin: the digital badge platform for developers!](https://dev.to/elenalape/introducing-holopin-the-digital-badge-platform-for-developers-2hlk)" by [@elena_lape](https://twitter.com/elena_lape) to learn more.
+Holopin is a platform that allows you to create and collect digital badges that people love ━ **this is for you if you love collecting badges**. Here's my collection ━ [holopin.io/@vinitshahdeo](https://www.holopin.io/@vinitshahdeo). Read "[Introducing Holopin: the digital badge platform for developers!](https://dev.to/elenalape/introducing-holopin-the-digital-badge-platform-for-developers-2hlk)" by [@elena_lape](https://twitter.com/elena_lape) to learn more.
 
 While Holopin already provides badge boards that can be easily embedded on GitHub and GitLab. **You can now also add generate dynamic markdown badges to your READMEs.** This shows count of the badges collected by you.
 
@@ -49,7 +49,7 @@ Run the above command and visit `http://localhost:3000/`
 
 ## Under the hood
 
-This is built using an **unofficial** [Holopin SDK](https://github.com/vinitshahdeo/holopin) created by me. This can be used to get the list of badges for any user. Find it here ⎯ [npmjs.com/holopin](https://www.npmjs.com/package/holopin) or install it using `npm i holopin`.
+This is built using an **unofficial** [Holopin SDK](https://github.com/vinitshahdeo/holopin) created by me. This can be used to get the list of badges for any user. Find it here ⎯ [npmjs.com/holopin](https://www.npmjs.com/package/holopin) or install it using ☞ `npm i holopin`.
   
 ```javascript
 const holopin = require('holopin');
