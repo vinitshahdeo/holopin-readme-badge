@@ -51,9 +51,21 @@ Run the above command and visit `http://localhost:3000/`
 
 ## Under the hood
 
-This is built using an **unofficial** [Holopin SDK](https://github.com/vinitshahdeo/holopin) created by me. Huge shoutout to [Shields.io](https://shields.io/) service for providing badges in the SVG format.
+This is built using an **unofficial** [Holopin SDK](https://github.com/vinitshahdeo/holopin) created by me. This can be used to get the list of badges for any user. Find it here ⎯ [npmjs.com/holopin](https://www.npmjs.com/package/holopin) or install it ⎯ `npm i holopin`.
+  
+```javascript
+const holopin = require('holopin');
 
-[![holopin](https://github-readme-stats.vercel.app/api/pin/?username=vinitshahdeo&repo=holopin&theme=vue-dark)](https://github.com/vinitshahdeo/holopin)
+holopin('vinitshahdeo')
+  .then((badges) => {
+    // badges.data.count ⎯ number of badges collected
+    // badges.data.stickers ⎯ list of your badges
+  })
+  .catch(console.log);
+
+```
+  
+Huge shoutout to [Shields.io](https://shields.io/) service for providing badges in the SVG format.
 
 ## Author
 
