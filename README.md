@@ -51,7 +51,7 @@ Run the above command and visit `http://localhost:3000/`
 
 ## Under the hood
 
-This is built using an **unofficial** [Holopin SDK](https://github.com/vinitshahdeo/holopin) created by me. This can be used to get the list of badges for any user. Find it here ⎯ [npmjs.com/holopin](https://www.npmjs.com/package/holopin) or install it ⎯ `npm i holopin`.
+This is built using an **unofficial** [Holopin SDK](https://github.com/vinitshahdeo/holopin) created by me. This can be used to get the list of badges for any user. Find it here ⎯ [npmjs.com/holopin](https://www.npmjs.com/package/holopin) or install it using `npm i holopin`.
   
 ```javascript
 const holopin = require('holopin');
