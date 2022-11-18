@@ -3,7 +3,9 @@
   <h1>Holopin <code>README</code> Badge
   </h1>
   <p><strong>Get yourself a dynamic Holopin markdown badge to show your collection of badges ツ</strong></p>
-  <img src='https://holopin.onrender.com/vinitshahdeo'/><br/><br/>
+  <img src='https://holopin.onrender.com/vinitshahdeo'/>
+  <img src='https://holopin.onrender.com/vinitshahdeo?static=true'/>
+  <br/><br/>
 </div>
 
 Holopin is a platform that allows you to create and collect digital badges that people love ━ **this is for you if you love collecting badges**. Here's my collection ━ [holopin.io/@vinitshahdeo](https://www.holopin.io/@vinitshahdeo). Read "[Introducing Holopin: the digital badge platform for developers!](https://dev.to/elenalape/introducing-holopin-the-digital-badge-platform-for-developers-2hlk)" by [@elena_lape](https://twitter.com/elena_lape) to learn more.
@@ -18,6 +20,13 @@ Replace `vinitshahdeo` in the markdown with your Holopin username. [Get your Hol
 ```
 [![Holopin](https://holopin.onrender.com/vinitshahdeo)](https://holopin.io/@vinitshahdeo)
 
+Pass `static=true` if you want a static badge
+
+```markdown
+[![Holopin](https://holopin.onrender.com/vinitshahdeo?static=true)](https://holopin.io/@vinitshahdeo)
+```
+[![Holopin](https://holopin.onrender.com/vinitshahdeo?static=true)](https://holopin.io/@vinitshahdeo)
+
 ## Style your badge 🦖
 
 Additionally it supports the styles. **To use a different style**: Replace `flat-square` in the markdown with any of the styles below ⤵
@@ -28,13 +37,13 @@ Additionally it supports the styles. **To use a different style**: Replace `flat
 
 ### Available styles
 
-| Type  | Badge  |
-|:---|:---|
-| `flat` <br> <sub>This is the default style.<sub>  | ![Holopin](https://holopin.onrender.com/vinitshahdeo) |
-| `flat-square`  | ![Holopin](https://holopin.onrender.com/vinitshahdeo?style=flat-square)  |
-| `plastic`  | ![Holopin](https://holopin.onrender.com/vinitshahdeo?style=plastic)  |
-| `social`  | ![Holopin](https://holopin.onrender.com/vinitshahdeo?style=social)  |
-| `for-the-badge`  | ![Holopin](https://holopin.onrender.com/vinitshahdeo?style=for-the-badge)  |
+| Type  | Dynamic Badge  | Static Badge
+|:---|:---|:---|
+| `flat` <br> <sub>This is the default style.<sub>  | ![Holopin](https://holopin.onrender.com/vinitshahdeo) | ![Holopin](https://holopin.onrender.com/vinitshahdeo?static=true) |
+| `flat-square`  | ![Holopin](https://holopin.onrender.com/vinitshahdeo?style=flat-square)  | ![Holopin](https://holopin.onrender.com/vinitshahdeo?static=true&style=flat-square)  |
+| `plastic`  | ![Holopin](https://holopin.onrender.com/vinitshahdeo?style=plastic)  | ![Holopin](https://holopin.onrender.com/vinitshahdeo?static=true&style=plastic)  |
+| `social`  | ![Holopin](https://holopin.onrender.com/vinitshahdeo?style=social)  | ![Holopin](https://holopin.onrender.com/vinitshahdeo?static=true&style=social)  |
+| `for-the-badge`  | ![Holopin](https://holopin.onrender.com/vinitshahdeo?style=for-the-badge)  | ![Holopin](https://holopin.onrender.com/vinitshahdeo??static=true&style=for-the-badge)  |
 
 ## Build locally
 
