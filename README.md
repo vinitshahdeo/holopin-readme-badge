@@ -31,6 +31,15 @@ Pass `static=true` if you want a static badge.
 ```
 [![Holopin](https://holopin.onrender.com/vinitshahdeo?static=true)](https://holopin.io/@vinitshahdeo)
 
+For using HTML, please replace `vinitshahdeo` with your username and copy the below syntax.
+
+```html
+<a href='https://www.holopin.io/@vinitshahdeo'>
+    <img src='https://holopin.onrender.com/vinitshahdeo'/>
+</a>
+```
+<a href='https://www.holopin.io/@vinitshahdeo'><img src='https://holopin.onrender.com/vinitshahdeo'/></a>
+
 ## Style your badge 🦖
 
 Additionally it supports the styles. **To use a different style**: Replace `flat-square` in the markdown with any of the styles below ⤵
