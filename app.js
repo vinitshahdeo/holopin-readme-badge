@@ -17,6 +17,8 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
+app.use('/favicon.ico', express.static('public/images/favicon.ico'));
+
 
 app.use('/', indexRouter);
 
