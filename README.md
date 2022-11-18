@@ -2,7 +2,7 @@
   <img src='./public/images/holopin-icon.png'/>
   <h1>Holopin <code>README</code> Badge
   </h1>
-  <p><strong>Get yourself a dynamic Holopin markdown badge to show your collection of badges ツ</strong></p>
+  <p><strong>Get yourself a dynamic Holopin markdown badge to show your collection of badges 🦖</strong></p>
   <img src='https://holopin.onrender.com/vinitshahdeo'/>
   <img src='https://holopin.onrender.com/vinitshahdeo?static=true'/>
   <br/><br/>
