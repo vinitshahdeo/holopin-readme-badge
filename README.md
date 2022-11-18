@@ -1,8 +1,9 @@
 <div align='center'>
   <img src='./public/images/holopin-icon.png'/>
-  <h1>Holopin <code>README</code> Badge<br/>
-  <img src='https://holopin.onrender.com/vinitshahdeo'/>
+  <h1>Holopin <code>README</code> Badge
   </h1>
+  <p><strong>Get yourself a dynamic Holopin markdown badge to show your collection of badges!</strong></p>
+  <img src='https://holopin.onrender.com/vinitshahdeo'/><br/><br/>
 </div>
 
 Holopin is a platform that allows you to create and collect digital badges that people love ━ **this is for you if you love collecting badges**. Here's my collection: [holopin.io/@vinitshahdeo](https://www.holopin.io/@vinitshahdeo). Read "[Introducing Holopin: the digital badge platform for developers!](https://dev.to/elenalape/introducing-holopin-the-digital-badge-platform-for-developers-2hlk)" by [@elena_lape](https://twitter.com/elena_lape) to learn more.
