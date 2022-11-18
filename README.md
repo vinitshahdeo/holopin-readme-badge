@@ -38,7 +38,6 @@ For using HTML, please replace `vinitshahdeo` with your username and copy the be
     <img src='https://holopin.onrender.com/vinitshahdeo'/>
 </a>
 ```
-<a href='https://www.holopin.io/@vinitshahdeo'><img src='https://holopin.onrender.com/vinitshahdeo'/></a>
 
 ## Style your badge 🦖
 
