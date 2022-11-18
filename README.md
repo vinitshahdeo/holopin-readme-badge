@@ -8,7 +8,7 @@
 
 Holopin is a platform that allows you to create and collect digital badges that people love ━ **this is for you if you love collecting badges**. Here's my collection ━ [holopin.io/@vinitshahdeo](https://www.holopin.io/@vinitshahdeo). Read "[Introducing Holopin: the digital badge platform for developers!](https://dev.to/elenalape/introducing-holopin-the-digital-badge-platform-for-developers-2hlk)" by [@elena_lape](https://twitter.com/elena_lape) to learn more.
 
-While Holopin already provides badge boards that can be easily embedded on GitHub and GitLab. **You can now also add generate dynamic markdown badges to your READMEs.** This shows count of the badges collected by you.
+While Holopin already provides badge boards that can be easily embedded on GitHub and GitLab. **You can now also add dynamic markdown badges to your READMEs.** This shows count of the badges collected by you.
 
 ## Here's how?
 Replace `vinitshahdeo` in the markdown with your Holopin username. [Get your Holopin username](https://www.holopin.io/) if you haven't yet!
