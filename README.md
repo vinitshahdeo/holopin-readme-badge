@@ -49,7 +49,7 @@ Additionally it supports the styles. **To use a different style**: Replace `flat
 
 ### Available styles
 
-| Type  | Dynamic Badge  | Static Badge
+| Style | Dynamic Badge  | Static Badge
 |:---|:---|:---|
 | `flat` <br> <sub>This is the default style.<sub>  | ![Holopin](https://holopin.onrender.com/vinitshahdeo) | ![Holopin](https://holopin.onrender.com/vinitshahdeo?static=true) |
 | `flat-square`  | ![Holopin](https://holopin.onrender.com/vinitshahdeo?style=flat-square)  | ![Holopin](https://holopin.onrender.com/vinitshahdeo?static=true&style=flat-square)  |
