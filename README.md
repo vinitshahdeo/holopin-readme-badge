@@ -15,12 +15,16 @@ While Holopin already provides badge boards that can be easily embedded on GitHu
 ## Here's how?
 Replace `vinitshahdeo` in the markdown with your Holopin username. [Get your Holopin username](https://www.holopin.io/) if you haven't yet!
 
+#### Dynamic Badge
+
 ```markdown
 [![Holopin](https://holopin.onrender.com/vinitshahdeo)](https://holopin.io/@vinitshahdeo)
 ```
 [![Holopin](https://holopin.onrender.com/vinitshahdeo)](https://holopin.io/@vinitshahdeo)
 
-Pass `static=true` if you want a static badge
+#### Static Badge
+
+Pass `static=true` if you want a static badge.
 
 ```markdown
 [![Holopin](https://holopin.onrender.com/vinitshahdeo?static=true)](https://holopin.io/@vinitshahdeo)
