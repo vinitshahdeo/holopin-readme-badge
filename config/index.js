@@ -8,4 +8,5 @@ module.exports.BADGE_OPTIONS = {
   COLOR_B: '86EFAC',
   DEFAULT_STYLE: 'flat',
   BASE_URL: 'https://img.shields.io/badge/holopin.io/@',
+  STATIC_BASE_URL: 'https://img.shields.io/badge/holopin.io',
 };

@@ -4,10 +4,11 @@ const express = require('express'),
 
 router.get('/:id', function (req, res, next) {
   const username = req.params.id, // holopin username
-    style = req.query.style;
+    style = req.query.style,
+    static = req.query.static,
+    generateBadge = static ? holopin.generateStaticBadge : holopin.generateBadge;
 
-  holopin
-    .generateBadge(username, style)
+  generateBadge(username, style)
     .then((badge) => {
       res.setHeader('content-type', 'image/svg+xml;charset=utf-8');
       res.send(badge);
