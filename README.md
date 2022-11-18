@@ -10,8 +10,6 @@ Holopin is a platform that allows you to create and collect digital badges that 
 
 While Holopin already provides badge boards that can be easily embedded on GitHub and GitLab. **You can now also add generate dynamic markdown badges to your READMEs.** This shows count of the badges collected by you.
 
-✨🦖✨🦖✨
-
 ## Here's how?
 Replace `vinitshahdeo` in the markdown with your Holopin username. [Get your Holopin username](https://www.holopin.io/) if you haven't yet!
 
@@ -20,7 +18,7 @@ Replace `vinitshahdeo` in the markdown with your Holopin username. [Get your Hol
 ```
 [![Holopin](https://holopin.onrender.com/vinitshahdeo)](https://holopin.io/@vinitshahdeo)
 
-## Style your badge 💅
+## Style your badge 🦖
 
 Additionally it supports the styles. **To use a different style**: Replace `flat-square` in the markdown with any of the styles below ⤵
 
