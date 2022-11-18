@@ -23,7 +23,7 @@ Replace `vinitshahdeo` in the markdown with your Holopin username. [Get your Hol
 Additionally it supports the styles. **To use a different style**: Replace `flat-square` in the markdown with any of the styles below ⤵
 
 ```markdown
-![Holopin](https://topmate-readme-badge.herokuapp.com/vinitshahdeo?style=flat-square)
+![Holopin](https://holopin.onrender.com/vinitshahdeo?style=flat-square)
 ```
 
 ### Available styles
