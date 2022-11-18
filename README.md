@@ -50,10 +50,9 @@ Run the above command and visit `http://localhost:3000/`
 
 ## Under the hood
 
-[![npm-holopin](https://img.shields.io/npm/v/holopin?logo=npm)](https://www.npmjs.com/package/holopin)
+This is built using an **unofficial** [Holopin SDK](https://github.com/vinitshahdeo/holopin) created by me. Huge shoutout to [Shields.io](https://shields.io/) service for providing badges in the SVG format.
 
-- This is built using an **unofficial** [Holopin SDK](https://github.com/vinitshahdeo/holopin) created by me.
-- Huge shoutout to [Shields.io](https://shields.io/) service for providing badges in the SVG format.
+[![holopin](https://github-readme-stats.vercel.app/api/pin/?username=vinitshahdeo&repo=holopin&theme=vue-dark)](https://github.com/vinitshahdeo/holopin)
 
 ## Author
 
