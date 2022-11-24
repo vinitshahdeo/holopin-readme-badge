@@ -6,8 +6,7 @@
   <sup>Start collecting <a href='https://www.holopin.io/'>digital badges on Holopin</a> if you haven't yet!</sup><br/>
   </p>
   
-  <img src='https://holopin.onrender.com/vinitshahdeo'/>
-  <img src='https://holopin.onrender.com/vinitshahdeo?static=true'/><br/>
+  <img src='https://holopin.onrender.com/vinitshahdeo'/><br/>
   <br/><br/>
 </div>
 
