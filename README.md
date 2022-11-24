@@ -66,10 +66,9 @@ This is powered using an [Express](https://expressjs.com/) app which is hosted o
 
 ## Badge board
 
-Holopin Badge Board can directly be embedded into your GitHub/GitLab profile READMEs. Learn more [here](https://blog.holopin.io/posts/github-readme-tutorial). You can find my collection ⎯ [holopin.io/@vinitshahdeo](https://www.holopin.io/@vinitshahdeo). Below is my board 🦖
+Holopin Badge Board can directly be embedded into your GitHub/GitLab READMEs. Learn more [here](https://blog.holopin.io/posts/github-readme-tutorial). You can find my collection ⎯ [holopin.io/@vinitshahdeo](https://www.holopin.io/@vinitshahdeo). Below is my board 🦖
 
 [![@vinitshahdeo's Holopin board](https://holopin.me/vinitshahdeo)](https://holopin.io/@vinitshahdeo)
-
 
 ## Similar projects
 
