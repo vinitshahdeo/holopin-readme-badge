@@ -27,7 +27,7 @@ Replace `vinitshahdeo` in the markdown with your Holopin username. [Start collec
 For using HTML, please replace `vinitshahdeo` in the syntax below:
 
 ```html
-<a href='https://www.holopin.io/@vinitshahdeo'>
+<a href='https://holopin.io/@vinitshahdeo'>
     <img src='https://holopin.onrender.com/vinitshahdeo'/>
 </a>
 ```
