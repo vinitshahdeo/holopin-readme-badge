@@ -59,7 +59,9 @@ Run the above command and visit `http://localhost:3000/`
 
 ## Under the hood
   
-Huge shout-out to [Shields.io](https://shields.io/) service for providing badges in the SVG format.
+This is powered using an [Express](https://expressjs.com/) app which is hosted on [Render](https://render.com/), a cloud Application hosting provider for Developers! Huge shout-out to [Shields.io](https://shields.io/) service for providing badges in the SVG format.
+
+![Made with Express](https://img.shields.io/badge/Made%20with-Express-yellow.svg?logo=express)
 
 ## Similar projects
 
