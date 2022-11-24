@@ -64,6 +64,13 @@ This is powered using an [Express](https://expressjs.com/) app which is hosted o
 
 ![Made with Express](https://img.shields.io/badge/Made%20with-Express-yellow.svg?logo=express)
 
+## Badge board
+
+Holopin Badge Board can directly be embedded into your GitHub/GitLab profile READMEs. Learn more [here](https://blog.holopin.io/posts/github-readme-tutorial). You can find my collection ⎯ [holopin.io/@vinitshahdeo](https://www.holopin.io/@vinitshahdeo). Below is my board 🦖
+
+[![@vinitshahdeo's Holopin board](https://holopin.me/vinitshahdeo)](https://holopin.io/@vinitshahdeo)
+
+
 ## Similar projects
 
 ☆ [Peerlist README Badge](https://github.com/vinitshahdeo/peerlist-readme-badge) ⎯ Peerlist [profile](https://peerlist.io/vinitshahdeo) can be used as a **simple resume** or a **complete portfolio** to showcase your work. You can style your `README` with an awesome Peerlist markdown badge.
