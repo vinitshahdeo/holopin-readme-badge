@@ -61,6 +61,12 @@ Run the above command and visit `http://localhost:3000/`
   
 Huge shout-out to [Shields.io](https://shields.io/) service for providing badges in the SVG format.
 
+## Similar projects
+
+☆ [Peerlist README Badge](https://github.com/vinitshahdeo/peerlist-readme-badge) ⎯ Peerlist [profile](https://peerlist.io/vinitshahdeo) can be used as a **simple resume** or a **complete portfolio** to showcase your work. You can style your `README` with an awesome Peerlist markdown badge.
+
+☆ [Topmate README Badge](https://www.producthunt.com/products/topmate-io-readme-badge-generator) ⎯ Topmate is a platform to **connect 1:1 with your audience** & monetise your time better. Basically, [one link](https://topmate.io/vinitshahdeo) to do it all. Even better, you can now add a markdown badge in your GitHub profile `README` to connect with your community! 
+
 
 <div align='center'>
    <br/>
