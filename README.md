@@ -7,11 +7,12 @@
   </p>
   
   <img src='https://holopin.onrender.com/vinitshahdeo'/><br/><br/>
-  <img src='./public/images/holopin-cover.png'/>
   <br/><br/>
 </div>
 
 Holopin is a platform that allows you to create and collect digital badges that people love ━ **this is for you if you love collecting badges**. Here's my collection ━ [holopin.io/@vinitshahdeo](https://www.holopin.io/@vinitshahdeo). Read "[Introducing Holopin: the digital badge platform for developers!](https://dev.to/elenalape/introducing-holopin-the-digital-badge-platform-for-developers-2hlk)" by [@elena_lape](https://twitter.com/elena_lape) to learn more.
+
+<img src='./public/images/holopin-cover.png'/>
 
 While Holopin already provides badge boards that can be easily embedded on GitHub and GitLab. **You can now also add markdown badges to your READMEs.** It's always **recommended** to [embed badge board](https://blog.holopin.io/posts/website-embed-tutorial) which is officially provided by Holopin ⎯ **use it like your laptop stickers**; but if you want to use a tiny badge, here's how! 
 
