@@ -82,7 +82,7 @@ fork(🖥️) && contribute(🚀); // raise your PR to make it better
 
 Glad to see you here! Did you love it? Show your support by [leaving a star](https://github.com/vinitshahdeo/holopin-readme-badge/stargazers) or sharing your thoughts on [Twitter](https://twitter.com/Vinit_Shahdeo).
 
-[![Twitter URL](https://img.shields.io/twitter/url?label=Tweet%20to%20spread%20a%20word&logo=twitter&style=social&url=https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fvinitshahdeo%2Fholopin-readme-badge%2F&via=vinit_shahdeo&text=Get%20yourself%20a%20Holopin%20README%20Badge%21&hashtags=holopin%2Creadme%2Cbadge%2Copensource)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fvinitshahdeo%2Fholopin-readme-badge%2F&via=vinit_shahdeo&text=Get%20yourself%20a%20Holopin%20README%20Badge%21&hashtags=holopin%2Creadme%2Cbadge%2Copensource)
+[![Twitter URL](https://img.shields.io/badge/Share%20on%20Twitter-1DA1F2.svg?style=flat&logo=Twitter&logoColor=white&url=https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fvinitshahdeo%2Fholopin-readme-badge%2F&via=vinit_shahdeo&text=Get%20yourself%20a%20Holopin%20README%20Badge%21&hashtags=holopin%2Creadme%2Cbadge%2Copensource)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fvinitshahdeo%2Fholopin-readme-badge%2F&via=vinit_shahdeo&text=Get%20yourself%20a%20Holopin%20README%20Badge%21&hashtags=holopin%2Creadme%2Cbadge%2Copensource)
 
 ## Similar projects
 
