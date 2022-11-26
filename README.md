@@ -67,6 +67,10 @@ You can find the [API Documentation on Postman](https://www.postman.com/restless
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://god.gw.postman.com/run-collection/6178851-36f7e660-f5bf-46bc-9e45-10c21fe82cb0?action=collection%2Ffork&collection-url=entityId%3D6178851-36f7e660-f5bf-46bc-9e45-10c21fe82cb0%26entityType%3Dcollection%26workspaceId%3D60e2f805-1bca-4052-8f4c-5b565f12e19f#?env%5BHolopin%20Badges%20on%20Render%5D=W3sia2V5IjoiYmFzZV91cmwiLCJ2YWx1ZSI6Imh0dHBzOi8vaG9sb3Bpbi5vbnJlbmRlci5jb20iLCJlbmFibGVkIjp0cnVlLCJ0eXBlIjoiZGVmYXVsdCJ9XQ==)
 
+## Contributing
+
+Do you want to pitch in? If so, please consider developing a web app that generates the markdown badge dynamically based on the Holopin username entered by the user. There will be an option to copy the markdown text. You can take inspiration from the [Topmate Badge Generator](https://topmate-readme-badge.netlify.app/).
+
 ## Under the hood
   
 This is powered using an [Express](https://expressjs.com/) app which is hosted on [Render](https://render.com/), a cloud Application hosting provider for Developers! Huge shout-out to [Shields.io](https://shields.io/) service for providing badges in the SVG format.
