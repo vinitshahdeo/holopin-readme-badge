@@ -1,7 +1,6 @@
-remote_theme: benc-uk/theme-msdark
-show_downloads: true
-icon: fas fa-comment-code
+title: Holopin README Badge
+logo: public/images/holopin-icon.png
 favicon: public/images/favicon.ico
-buttons:
-  - text: Review on Product Hunt
-    href: https://www.producthunt.com/posts/topmate-io-readme-badge-generator
+description: Get yourself a Holopin README Badge to show your collection of badges.
+show_downloads: false
+theme: jekyll-theme-minimal
