@@ -24,7 +24,7 @@ Replace `vinitshahdeo` in the markdown with your Holopin username. [Start collec
 [![Holopin](https://holopin.onrender.com/vinitshahdeo)](https://holopin.io/@vinitshahdeo)
 ```
 
-For using HTML, please replace `vinitshahdeo` in the syntax below:
+For using HTML, please replace `vinitshahdeo` with your Holopin username in the syntax below:
 
 ```html
 <a href='https://holopin.io/@vinitshahdeo'>
