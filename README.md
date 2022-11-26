@@ -98,7 +98,7 @@ Glad to see you here! Did you love it? Show your support by [leaving a star](htt
    <br/>
    <strong>Made with ♡ by <a href='https://github.com/vinitshahdeo'/>@vinitshahdeo</a> for <a href='https://www.holopin.io/@vinitshahdeo'>Holopin.io</a></strong><br/>
    <sup>✨Collect <a href='https://www.holopin.io/'>your digital badges</a> on Holopin!✨</sup><br/><br/>
-   <a href='https://twitter.com/Vinit_Shahdeo'/><img src='https://img.shields.io/twitter/follow/Vinit_Shahdeo.svg?style=social'></a>
+   <a href='https://twitter.com/Vinit_Shahdeo'/><img src='https://img.shields.io/twitter/follow/Vinit_Shahdeo.svg?style=social'/></a>
    <br/>
    <br/>
 </div>
