@@ -36,6 +36,8 @@ For using HTML, please replace `vinitshahdeo` with your Holopin username in the 
 
 Additionally it supports the styles. **To use a different style**: Replace `flat-square` in the markdown with any of the styles below ⤵
 
+> **Note** `flat` is the default style.
+
 ```markdown
 ![Holopin](https://holopin.onrender.com/vinitshahdeo?style=flat-square)
 ```
