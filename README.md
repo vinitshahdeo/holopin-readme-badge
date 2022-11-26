@@ -63,7 +63,7 @@ Run the above command and visit `http://localhost:3000/`
 
 ## API Documentation
 
-You can the [API Documentation on Postman](https://www.postman.com/restless-rocket-22186/workspace/holopin-badges/documentation/6178851-36f7e660-f5bf-46bc-9e45-10c21fe82cb0) or simply embed the collection using the below button:
+You can find the [API Documentation on Postman](https://www.postman.com/restless-rocket-22186/workspace/holopin-badges/documentation/6178851-36f7e660-f5bf-46bc-9e45-10c21fe82cb0) or simply embed the collection using the below button:
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://god.gw.postman.com/run-collection/6178851-36f7e660-f5bf-46bc-9e45-10c21fe82cb0?action=collection%2Ffork&collection-url=entityId%3D6178851-36f7e660-f5bf-46bc-9e45-10c21fe82cb0%26entityType%3Dcollection%26workspaceId%3D60e2f805-1bca-4052-8f4c-5b565f12e19f#?env%5BHolopin%20Badges%20on%20Render%5D=W3sia2V5IjoiYmFzZV91cmwiLCJ2YWx1ZSI6Imh0dHBzOi8vaG9sb3Bpbi5vbnJlbmRlci5jb20iLCJlbmFibGVkIjp0cnVlLCJ0eXBlIjoiZGVmYXVsdCJ9XQ==)
 
