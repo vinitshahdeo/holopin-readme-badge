@@ -2,3 +2,6 @@ remote_theme: benc-uk/theme-msdark
 show_downloads: true
 icon: fas fa-comment-code
 favicon: public/images/favicon.ico
+buttons:
+  - text: Review on Product Hunt
+    href: https://www.producthunt.com/posts/topmate-io-readme-badge-generator
