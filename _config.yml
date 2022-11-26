@@ -1,4 +1,4 @@
 remote_theme: benc-uk/theme-msdark
 show_downloads: true
-icon: fa-solid fa-comment-code
+icon: fas fa-comment-code
 favicon: public/images/favicon.ico
