@@ -42,13 +42,14 @@ Additionally it supports the styles. **To use a different style**: Replace `flat
 
 ### Available styles
 
-| Style | Badge  | 
+| Style | Badge | 
 |:---|:---|
-| `flat` <br> <sub>This is the default style.<sub>  | ![Holopin](https://holopin.onrender.com/vinitshahdeo) | 
+| `flat` | ![Holopin](https://holopin.onrender.com/vinitshahdeo) | 
 | `flat-square`  | ![Holopin](https://holopin.onrender.com/vinitshahdeo?style=flat-square)  |
 | `plastic`  | ![Holopin](https://holopin.onrender.com/vinitshahdeo?style=plastic)  | 
 | `social`  | ![Holopin](https://holopin.onrender.com/vinitshahdeo?style=social)  | 
-| `for-the-badge`  | ![Holopin](https://holopin.onrender.com/vinitshahdeo?style=for-the-badge)  | 
+| `for-the-badge`  | ![Holopin](https://holopin.onrender.com/vinitshahdeo?style=for-the-badge)  |
+
 ## Build locally
 
 ```console
