@@ -73,6 +73,17 @@ You can find the [API Documentation on Postman](https://www.postman.com/restless
 
 Do you want to pitch in? If so, please consider developing a web app that generates the markdown badge dynamically based on the Holopin username entered by the user. There will be an option to copy the markdown text. You can take inspiration from the [Topmate Badge Generator](https://topmate-readme-badge.netlify.app/).
 
+**Quick start**
+
+```bash
+git checkout feature/web-app
+cd client
+npm install
+npm start
+```
+
+> **Note** Please checkout [issue #2](https://github.com/vinitshahdeo/holopin-readme-badge/issues/2)
+
 ## Under the hood
   
 This is powered using an [Express](https://expressjs.com/) app which is hosted on [Render](https://render.com/), a cloud Application hosting provider for Developers! Huge shout-out to [Shields.io](https://shields.io/) service for providing badges in the SVG format.
