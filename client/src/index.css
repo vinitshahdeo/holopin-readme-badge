@@ -5,9 +5,101 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #fdf2e6;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.inputContainer {
+  border: 1px solid black;
+  align-items: center;
+  margin-left: 75vh;
+  margin-right: 75vh;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  display: flex;
+  height: 3.5rem;
+  flex-direction: column;
+  border-radius: 5px;
+}
+
+.labelContainer {
+  text-align: left;
+  color: dimgrey;
+  margin-left: 5px;
+  font-size: 14px;
+  width: 100%;
+  border-radius: 5px;
+}
+
+input {
+  text-align: left;
+  border: none;
+  display: inline-block;
+  width: 98%;
+  height: 100%;
+  font-size: 12px;
+  background-color: #fdf2e6;
+}
+
+input:focus {
+  outline: none;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+  width: 100%;
+  text-align: left;
+  margin-left: 10px;
+}
+
+
+.dropdown ul {
+  list-style: none;
+  display: none;
+  margin-top: 30px;
+  padding: 0;
+  width: 100px;
+  position: relative;
+  background-color: #fdf2e6;
+  border: 1px solid black;
+  width: 100%;
+}
+
+.dropdown li {
+  align-items:flex-start;
+  width: 100px;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  cursor: pointer;
+  padding: 0;
+}
+
+.dropdown li:hover {
+  background-color: #ddd;
+  width: 100%;
+  text-align: left;
+  padding: 0;
+  align-items:flex-start;
+  display: block;
+  margin-left: 20px;
+}
+
+.generateButton {
+  margin-left: 75vh;
+  margin-right: 75vh;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 1px solid black;
+  height: 50px;
+  background-color: #e64130;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }

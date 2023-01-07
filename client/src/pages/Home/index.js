@@ -1,15 +1,22 @@
 import React from 'react'
+import BoxWithDropdown from '../../components/BoxWithDropdown'
 
 function Home() {
   return (
     <div>
       <h1>Holopin README Badge Generator</h1>
       <div>Style your GitHub Profile README with an awesome badge</div>
-      <div>
-        <input placeholder='Enter your username'></input>
-        <input placeholder='Choose badge style'></input>
+      <div className='inputContainer'>
+        <label className='labelContainer'>Enter your username</label>
+        <input className='inputBox' type="text" />
       </div>
-      <button>Generate Badge</button>
+
+      <div className='inputContainer'>
+        <label className='labelContainer'>Enter your username</label>
+        <BoxWithDropdown />
+      </div>
+
+      <div className='generateButton'>Generate Badge</div>
       <div>
         <label>Markdown</label>
         <textarea></textarea>
