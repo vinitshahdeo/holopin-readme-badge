@@ -41,7 +41,7 @@ input {
   display: inline-block;
   width: 98%;
   height: 100%;
-  font-size: 12px;
+  font-size: 16px;
   background-color: #fdf2e6;
 }
 
@@ -53,41 +53,36 @@ input:focus {
   position: relative;
   display: inline-block;
   width: 100%;
-  text-align: left;
+  font-size: 16px;
+  margin-top: 5px;
+}
+
+.dropdown-selection {
   margin-left: 10px;
-}
-
-
-.dropdown ul {
-  list-style: none;
-  display: none;
-  margin-top: 30px;
-  padding: 0;
-  width: 100px;
-  position: relative;
-  background-color: #fdf2e6;
-  border: 1px solid black;
-  width: 100%;
-}
-
-.dropdown li {
-  align-items:flex-start;
-  width: 100px;
-  height: 30px;
-  line-height: 30px;
-  text-align: center;
-  cursor: pointer;
-  padding: 0;
-}
-
-.dropdown li:hover {
-  background-color: #ddd;
-  width: 100%;
   text-align: left;
-  padding: 0;
-  align-items:flex-start;
+}
+
+.dropdown-menu {
   display: block;
-  margin-left: 20px;
+  position: absolute;
+  background-color: #f1f1f1;
+  width: 90%;
+  box-shadow: 0px 8px 24px 0px rgba(0,0,0,0.2);
+  list-style: none;
+}
+
+.dropdown-menu li {
+  color: black;
+  padding: 10px;
+  position: relative;
+  display: block;
+  text-align: left;
+  cursor: pointer;
+}
+
+.dropdown-option:hover {
+  background-color: #ddd;
+  display: block;
 }
 
 .generateButton {

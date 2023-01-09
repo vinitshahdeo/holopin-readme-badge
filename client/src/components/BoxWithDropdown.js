@@ -15,12 +15,14 @@ export default function BoxWithDropdown() {
 
     return (
         <div className="dropdown">
-            <div onClick={toggleDropdown}>{selectedOption}</div>
+            <div className='dropdown-selection' onClick={toggleDropdown}>{selectedOption}</div>
             {isOpen && (
-                <ul>
-                    <li onClick={() => selectOption('Option 1')}>Option 1</li>
-                    <li onClick={() => selectOption('Option 2')}>Option 2</li>
-                    <li onClick={() => selectOption('Option 3')}>Option 3</li>
+                <ul className='dropdown-menu'>
+                    <li className='dropdown-option' onClick={() => selectOption('flat')}>flat</li>
+                    <li className='dropdown-option' onClick={() => selectOption('flat-square')}>flat-square</li>
+                    <li className='dropdown-option' onClick={() => selectOption('plastic')}>plastic</li>
+                    <li className='dropdown-option' onClick={() => selectOption('social')}>social</li>
+                    <li className='dropdown-option' onClick={() => selectOption('for-the-badge')}>for-the-badge</li>
                 </ul>
             )}
         </div>
