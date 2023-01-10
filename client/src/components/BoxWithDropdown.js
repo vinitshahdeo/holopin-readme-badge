@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 
 export default function BoxWithDropdown() {
     const [isOpen, setIsOpen] = useState(false);
-    const [selectedOption, setSelectedOption] = useState('Option 1');
+    const [selectedOption, setSelectedOption] = useState('flat');
 
     function toggleDropdown() {
         setIsOpen(!isOpen);

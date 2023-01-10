@@ -63,19 +63,16 @@ input:focus {
 }
 
 .dropdown-menu {
-  display: block;
-  position: absolute;
   background-color: #f1f1f1;
-  width: 90%;
+  width: 92%;
   box-shadow: 0px 8px 24px 0px rgba(0,0,0,0.2);
   list-style: none;
+  margin-top: 25px;
 }
 
-.dropdown-menu li {
+.dropdown-option {
   color: black;
-  padding: 10px;
-  position: relative;
-  display: block;
+  padding: 10px 0px;
   text-align: left;
   cursor: pointer;
 }
@@ -96,5 +93,25 @@ input:focus {
   border-radius: 5px;
   display: flex;
   align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.textbox-container {
+  display: flex;
+  flex-direction: column;
+}
+
+textarea {
+  width: 85vh;
+  height: 9vh;
+  margin-left: 60vh;
+  margin-right: 55vh;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  resize: none;
+  font-size: 15px;
+  text-align: center;
+  display: flex;
   justify-content: center;
 }
